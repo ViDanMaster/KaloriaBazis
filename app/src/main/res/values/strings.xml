@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KaloriaBazis</string>
+    <string name="kal_riatartalom">Kalóriatartalom</string>
+    <string name="tel_neve">Étel neve</string>
+    <string name="hozz_ad_s">Hozzáadás</string>
+    <string name="tel_hozz_ad_sa">Étel hozzáadása</string>
+    <string name="regisztr_ci">Regisztráció</string>
+    <string name="jelsz">Jelszó</string>
+    <string name="email">Email</string>
+    <string name="bejelentkez_s">Bejelentkezés</string>
+    <string name="sszes_kal_ria_0">Összes kalória: 0</string>
+    <string name="sszes_kal_ria">"Összes kalória: %d"</string>
+    <string name="tel_hozz_ad_sa_a_felhaszn_l_hoz">Étel hozzáadása a listához</string>
+    <string name="ma_megevett_telek">Ma megevett ételek:</string>
+    <string name="telek_megtekint_se">Ételek módosítása</string>
+    <string name="sz_nhidr_t">Szénhidrát</string>
+    <string name="zs_r">Zsír</string>
+    <string name="feh_rje">Fehérje</string>
+    <string name="tel_friss_t_se">Étel frissítése</string>
+    <string name="mai_bevitt_kal_ria_d">Mai kalória: %d kcal</string>
+    <string name="mai_bevitt_protein_d">Mai protein: %d g</string>
+    <string name="mai_bevitt_zs_r_d">Mai zsír: %d g</string>
+    <string name="mai_bevitt_sz_nhidr_t_d">Mai szénhidrát: %d g</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "788851592896",
+    "firebase_url": "https://kaloriaapp-834aa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kaloriaapp-834aa",
+    "storage_bucket": "kaloriaapp-834aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788851592896:android:1e8c4db52f54f4382c2725",
+        "android_client_info": {
+          "package_name": "com.example.kaloriabazis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDdNa21kq7D17gzooUoZHVAU89Qqg28EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
